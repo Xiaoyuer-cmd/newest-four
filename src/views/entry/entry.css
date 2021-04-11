@@ -1,0 +1,25 @@
+.layout {
+    border: 1px solid #d7dde4;
+    background: #f5f7f9;
+    position: relative;
+    border-radius: 4px;
+    overflow: hidden;
+    height: 100%;
+    min-height: 1080px;
+}
+
+.layout-header-bar {
+    background: #fff;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.layout .layoutTitle {
+    text-align: center;
+    color: #fff;
+    font-family: 华文行楷;
+    padding: 0 50px;
+    height: 64px;
+    line-height: 64px;
+    background-color: #003d6b;
+    box-shadow: 0px 15px 10px -15px #000;
+}
